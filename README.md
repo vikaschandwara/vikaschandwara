@@ -44,7 +44,7 @@
 
 
 
-<!-- <h1 align="center">Hi 👋, I'm Vikas Chandwara</h1>
+<h1 align="center">Hi 👋, I'm Vikas Chandwara</h1>
 <h3 align="center">A passionate Android & Web Developer from India</h3>
 <img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" align="center" />
 
@@ -118,14 +118,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikaschandwara/vikaschandwara/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikaschandwara/vikaschandwara/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vikaschandwara/vikaschandwara/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/vikaschandwara/vikaschandwara/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ---
 
 ### 👋 Hey! That’s Me
 A developer who loves **Android, Web, and full-stack development**. I enjoy building **real-world applications, contributing to open-source, and constantly learning new technologies**.
- -->
 
 
 
@@ -134,7 +134,8 @@ A developer who loves **Android, Web, and full-stack development**. I enjoy buil
 
 
 
-<h1 align="center">Hey 👋What's Up?</h1>
+
+<!-- <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -185,4 +186,4 @@ A developer who loves **Android, Web, and full-stack development**. I enjoy buil
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vikaschandwara/vikaschandwara/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
