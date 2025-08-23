@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=07-vikas&" alt="07-vikas" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/_vikas_07?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/vikaschandwara?ext=heatmap)
