@@ -57,7 +57,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Java Core, JavaScript, and full-stack development**  
+- 🌱 I’m currently learning **Spring & SpringBoot**  
 - 💬 Ask me about **DSA, Android, Web Development, and Java**  
 - 📫 How to reach me: **vikaschandwara@gmail.com**  
 
