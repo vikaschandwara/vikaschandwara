@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikas Chandwara</h1>
+<!-- <h1 align="center">Hi 👋, I'm Vikas Chandwara</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 <img src = "https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif">
 
@@ -30,4 +30,99 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaschandwara&" alt="vikaschandwara" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/vikaschandwara?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/vikaschandwara?ext=heatmap) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Vikas Chandwara</h1>
+<h3 align="center">A passionate Android & Web Developer from India</h3>
+<img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" align="center" />
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=07-vikas&label=Profile%20views&color=0e75b6&style=flat" alt="07-vikas" /> </p>
+
+<p align="center">
+  <a href="https://github.com/07-vikas" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=07-vikas" alt="07-vikas" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Java Core, JavaScript, and full-stack development**  
+- 💬 Ask me about **DSA, Android, Web Development, and Java**  
+- 📫 How to reach me: **vikaschandwara@gmail.com**  
+
+---
+
+### 🔗 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/vikas-chandwara-1aab25287" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_._vikas.07" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/chandwaravikas" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/_vikas_07" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/vikass07" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" />
+  <img width="12" />
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikaschandwara&show_icons=true&locale=en&layout=compact" alt="vikaschandwara" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikaschandwara&show_icons=true&locale=en" alt="vikaschandwara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaschandwara&" alt="vikaschandwara" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/vikaschandwara?ext=heatmap" alt="Leetcode Stats" /></p>
+
+---
+
+### 📈 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/07-vikas/07-vikas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/07-vikas/07-vikas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/07-vikas/07-vikas/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+### 👋 Hey! That’s Me
+A developer who loves **Android, Web, and full-stack development**. I enjoy building **real-world applications, contributing to open-source, and constantly learning new technologies**.
+
