@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Android Developer from India</h3>
 <img src = "https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=07-vikas&label=Profile%20views&color=0e75b6&style=flat" alt="07-vikas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaschandwara&label=Profile%20views&color=0e75b6&style=flat" alt="vikaschandwara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07-vikas" alt="07-vikas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikaschandwara" alt="vikaschandwara" /></a> </p>
 
 - 🌱 I’m currently learning **Java Core, JS**
 
@@ -48,10 +48,10 @@
 <h3 align="center">A passionate Android & Web Developer from India</h3>
 <img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" align="center" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=07-vikas&label=Profile%20views&color=0e75b6&style=flat" alt="07-vikas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vikaschandwara&label=Profile%20views&color=0e75b6&style=flat" alt="vikaschandwara" /> </p>
 
 <p align="center">
-  <a href="https://github.com/07-vikas" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=07-vikas" alt="07-vikas" /></a>
+  <a href="https://github.com/vikaschandwara" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=vikaschandwara" alt="vikaschandwara" /></a>
 </p>
 
 ---
@@ -116,9 +116,9 @@
 
 ### 📈 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/07-vikas/07-vikas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/07-vikas/07-vikas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/07-vikas/07-vikas/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikaschandwara/vikaschandwara/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikaschandwara/vikaschandwara/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vikaschandwara/vikaschandwara/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
