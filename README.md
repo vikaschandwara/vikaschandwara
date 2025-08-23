@@ -87,8 +87,8 @@
 ### 🛠 Languages & Tools
 <div align="center">
   <!-- Existing skillicons -->
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" />
+  <img width="12" /> -->
 
   <!-- Android, Arduino, Figma, Git -->
   <a href="https://developer.android.com" target="_blank">
